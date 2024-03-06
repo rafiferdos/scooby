@@ -1,11 +1,8 @@
 # Scooby Forum
 
-![Scooby Forum Preview](![image](https://github.com/rafiferdos/scooby/assets/76879162/c915408d-1efb-4e83-89d3-95690a1bb4cf)
-)
-
 Scooby Forum is a modern and minimalist forum website built using HTML, CSS (Tailwind CSS and DaisyUI), and JavaScript. It offers various functionalities such as searching for post categories, marking posts as read, and fetching posts through an API. 
 
-Visit the live site: ![Scooby Forum]!(https://scooby-forum.netlify.app/)
+Visit the live site: [Scooby Forum](https://scooby-forum.netlify.app/)
 
 ## Features
 
