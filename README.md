@@ -29,6 +29,6 @@ You can simply visit the live site at [Scooby Forum](https://scooby-forum.netlif
 
 ## Author
 
-[Rafi Ferdous](https://github.com/rafiferdos)
+[Rafi Ferdos](https://github.com/rafiferdos)
 
 Feel free to reach out to me if you have any questions or suggestions!
